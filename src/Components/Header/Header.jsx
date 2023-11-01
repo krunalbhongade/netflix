@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from "../../Logoonnetflix.png";
 import { Link } from "react-router-dom";
 import { ImSearch } from "react-icons/im";
 import logo from "../../Components/Logonetflix.png";
